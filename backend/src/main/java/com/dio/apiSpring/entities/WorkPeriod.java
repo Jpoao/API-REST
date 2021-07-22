@@ -20,7 +20,7 @@ import lombok.Setter;
 @EqualsAndHashCode
 @Builder
 @Entity
-@Table(name = "work_period_tb")
+@Table(name = "tb_work_period")
 public class WorkPeriod {
 
 	@Id
