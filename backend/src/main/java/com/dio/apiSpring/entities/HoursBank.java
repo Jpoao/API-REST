@@ -49,7 +49,6 @@ public class HoursBank {
 		private User user;
 	}
 	
-	@Id
 	@EmbeddedId
 	private HoursBankId id;
 	
